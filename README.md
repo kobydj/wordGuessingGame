@@ -12,3 +12,21 @@ The external API used is Datamuse API
 - Win/lose message with the ability to start a new game
 - styled using bootstrap
 
+  
+## How to Run
+1. Clone Repository
+   ```c
+   git clone https://github.com/kobydj/wordGuessingGame.git
+   cd wordGuessingGame
+   ```
+2. Install Dependancies
+   ```c
+   npm install
+   ```
+4. Run Locally
+   ```c
+   npm run dev
+   ```
+   press o + enter to open in browser
+
+
