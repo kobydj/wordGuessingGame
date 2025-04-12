@@ -17,7 +17,7 @@ The external API used is Datamuse API
 1. Clone Repository
    ```c
    git clone https://github.com/kobydj/wordGuessingGame.git
-   cd wordGuessingGame
+   cd wordGuessingGame/WordGuessingGame
    ```
 2. Install Dependancies
    ```c
